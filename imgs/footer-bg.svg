@@ -1,0 +1,44 @@
+<svg id="bg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="675" height="552.31" viewBox="0 0 675 552.31">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        opacity: 0.3;
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        opacity: 0.5;
+        stroke: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        opacity: 0.7;
+        stroke: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        opacity: 0.85;
+        stroke: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1241.5" y1="5096" x2="1241.5" y2="4530" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fd3fb3"/>
+      <stop offset="0.3" stop-color="#fd3f81"/>
+      <stop offset="0.79" stop-color="#fd3e4f"/>
+      <stop offset="1" stop-color="#fd3e4f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1205.5" x2="1205.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="1303.266" y1="5082.81" x2="1303.266" y2="4510.69" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="1422.825" y1="5094.16" x2="1422.825" y2="4523.06" xlink:href="#linear-gradient"/>
+  </defs>
+  <path id="circle1" class="cls-1" d="M1162,4530c156.3,0,555,94.7,555,251s-398.7,315-555,315-396-126.7-396-283S1005.7,4530,1162,4530Z" transform="translate(-765 -4509.69)"/>
+  <path id="circle2" class="cls-2" d="M1262,4530c156.3,0,283,126.7,283,283s-126.7,283-283,283-396-126.7-396-283S1105.7,4530,1262,4530Z" transform="translate(-765 -4509.69)"/>
+  <path id="circle3" class="cls-3" d="M1256.25,4527.67c146.95-53.22,309.23,22.76,362.46,169.71s-22.76,309.24-169.71,362.46-415.48,15.73-468.707-131.22S1109.29,4580.9,1256.25,4527.67Z" transform="translate(-765 -4509.69)"/>
+  <path id="circle4" class="cls-4" d="M1563.52,4542.92c148.09,49.98,227.63,210.54,177.66,358.63s-210.54,227.63-358.63,177.66-334.7-246.67-284.73-394.76S1415.43,4492.95,1563.52,4542.92Z" transform="translate(-765 -4509.69)"/>
+</svg>
